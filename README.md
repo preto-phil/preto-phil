@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @preto-phil
-- 👀 I’m interested in building up my skillset and knowledge base... Still early days
-- 🌱 I’m currently learning CS50x, Javascript and Python.
+- 👀 I’m interested in building up my skillset and knowledge base... Still early days!
+- 🌱 I’m currently learning HTML, CSS, Javascript and more through The Odin Project.
 - 💞️ I’m not looking to collaborate at the moment.
 - 📫 How to reach me - email: philippretorius.79@gmail.com
 
