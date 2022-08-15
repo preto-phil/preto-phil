@@ -10,7 +10,14 @@ preto-phil/preto-phil is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=preto-phil&theme=radical)
+## 📈 GitHub Stats
+<a href="https://github.com/preto-phil">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preto-phil&theme=dark" alt="Top Languages" />
+</a>
+<a href="https://github.com/preto-phil">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=preto-phil&show_icons=true&theme=dark" alt="preto-phil's GitHub Stats" />
+</a>
+
 
 
 
