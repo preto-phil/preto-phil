@@ -10,7 +10,7 @@
 -  philippretorius.79@gmail.com
 - <a href="https://www.reddit.com/user/preto_phil" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg"       alt="preto-phil reddit" height="30" width="40" />
- 
+ </a>
 - <p align="left">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"      alt="preto-phil discord" height="30" width="40" />
   Reach me on discord! preto_phil#0555
