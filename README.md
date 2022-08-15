@@ -15,6 +15,10 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"      alt="preto-phil discord" height="30" width="40" />
   Reach me on discord! preto_phil#0555
 </p> 
+[![website](./img/youtube-dark.svg)](https://youtube.com/preto phil#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/discord-dark.svg)](https://discord.com/preto_phil#0555#gh-dark-mode-only)
+&nbsp;&nbsp;
 
  ## 🔧 Languages & Tools
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
