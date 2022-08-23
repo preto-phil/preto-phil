@@ -8,7 +8,7 @@
   - Progress: 
      - Foundations = 63%
      - Full Stack Javascript = 0%
-- 💞️ I’m open to any collaboration.
+- 🤝 I’m open to any collaboration.
 
 
 ## 📫 Contact Me
@@ -41,3 +41,6 @@
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preto-phil&theme=dracula)](https://github.com/preto-phil/github-readme-stats)
 -->
+
+## ⚡ Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=preto-phil&theme=dracula"/>
