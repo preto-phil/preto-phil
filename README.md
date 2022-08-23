@@ -32,11 +32,12 @@
  
 ## 📈 GitHub Stats
 <a href="https://github.com/preto-phil">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preto-phil&theme=dark" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preto-phil&&theme=dracula" alt="Top Languages" />
 </a>
 <a href="https://github.com/preto-phil">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=preto-phil&show_icons=true&theme=dark" alt="preto-phil's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=preto-phil&show_icons=true&theme=dracula" alt="preto-phil's GitHub Stats" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preto-phil)](https://github.com/preto-phil/github-readme-stats)
-
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preto-phil&theme=dracula)](https://github.com/preto-phil/github-readme-stats)
+-->
