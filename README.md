@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning HTML, CSS, Javascript and more through The Odin Project.
 - :muscle: Goal for 2022: Complete The Odin Project
   - Progress: 
-     - Foundations = 65%
+     - Foundations = 66%
      - Full Stack Javascript = 0%
 - 🤝 I’m open to any collaboration.
 
