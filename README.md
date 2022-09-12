@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning HTML, CSS, Javascript and more through The Odin Project.
 - :muscle: Goal for 2022: Complete The Odin Project
   - Progress: 
-     - Foundations = 71%
+     - Foundations = 73%
      - Full Stack Javascript = 0%
 - 🤝 I’m open to any collaboration.
 
@@ -38,9 +38,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=preto-phil&show_icons=true&theme=dracula" alt="preto-phil's GitHub Stats" />
 </a>
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preto-phil&theme=dracula)](https://github.com/preto-phil/github-readme-stats)
--->
 
 ## ⚡ Streak
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=preto-phil&theme=dracula"/>
