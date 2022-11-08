@@ -4,7 +4,7 @@
 ## :man_technologist: About Me
 - 👀 I’m building up my knowledge and skillset with the goal of starting a career as a software developer... Still early days!
 - 🌱 I’m currently learning HTML, CSS, Javascript and more through The Odin Project.
-- :muscle: Goal for 2022: Complete The Odin Project
+- :muscle: Goal for 2022: Complete The Odin Project Foundations
   - Progress: 
      - Foundations = 85%
      - Full Stack Javascript = 0%
