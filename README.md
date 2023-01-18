@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning HTML, CSS, Javascript and more through The Odin Project.
 - :muscle: Goals for 2023: 
   -  Complete The Odin Project Foundations
-    - Progress: 
+      - Progress: 
        - Foundations = 87%
        - Full Stack Javascript = 0%
    - Complete FreeCodeCamp Responsive Web Design
