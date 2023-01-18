@@ -7,8 +7,8 @@
 - :muscle: Goals for 2023: 
   -  Complete The Odin Project Foundations
       - Progress: 
-       - Foundations = 87%
-       - Full Stack Javascript = 0%
+         - Foundations = 87%
+         - Full Stack Javascript = 0%
    - Complete FreeCodeCamp Responsive Web Design
 - 🤝 I’m open to any collaboration.
 
