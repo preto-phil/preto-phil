@@ -9,7 +9,6 @@
       - Progress: 
          - Foundations = 87%
          - Full Stack Javascript = 0%
-   - Complete FreeCodeCamp Responsive Web Design
 - 🤝 I’m open to any collaboration.
 
 
