@@ -5,9 +5,9 @@
 - 👀 I’m building up my knowledge and skill set with the goal of starting a career as a software engineer... Still early days!
 - 🌱 I’m currently learning HTML, CSS, Javascript and more through The Odin Project.
 - :muscle: Goals for 2023: 
-  -  Complete The Odin Project Foundations
+  -  Complete The Odin Project
       - Progress: 
-         - Foundations = 89%
+         - Foundations = 91%
          - Full Stack Javascript = 0%
 - 🤝 I’m open to any collaboration.
 
