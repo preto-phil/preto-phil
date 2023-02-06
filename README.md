@@ -4,11 +4,24 @@
 ## :man_technologist: About Me
 - 👀 I’m building up my knowledge and skill set with the goal of starting a career as a software engineer... Still early days!
 - 🌱 I’m currently learning HTML, CSS, Javascript and more through completing personal projects and The Odin Project.
+- 🌟 I'm also learning some computer science theory through CS50x and other online resources.
 - :muscle: Goals for 2023: 
   -  Complete The Odin Project
       - Progress: 
          - Foundations = 91%
          - Full Stack Javascript = 0%
+  -  Complete CS50x
+      - Progress: 
+         - [ ] Week 1
+         - [ ] Week 2
+         - [ ] Week 3
+         - [ ] Week 4
+         - [ ] Week 5
+         - [ ] Week 6
+         - [ ] Week 7
+         - [ ] Week 8
+         - [ ] Week 9
+         - [ ] Week 10
 - 🤝 I’m open to any collaboration.
 
 
