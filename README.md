@@ -8,7 +8,7 @@
 - :muscle: Goals for 2023: 
   -  Complete The Odin Project
       - Progress: 
-         - Foundations = 91%
+         - Foundations = 93%
          - Full Stack Javascript = 0%
   -  Complete CS50x
       - Progress: 
