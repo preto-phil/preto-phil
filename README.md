@@ -12,16 +12,12 @@
          - Full Stack Javascript = 0%
   -  Complete CS50x
       - Progress: 
-         - [x] Week 1
          - [ ] Week 2
-         - [ ] Week 3
-         - [ ] Week 4
-         - [ ] Week 5
-         - [ ] Week 6
-         - [ ] Week 7
-         - [ ] Week 8
-         - [ ] Week 9
-         - [ ] Week 10
+  - Create Tutor Web Page using HTML, CSS and Vanilla JS
+  - Create Gym Log Book using React
+  - Create Alarm App
+      - Web app using React
+      - Mobile app using React Native
 - 🤝 I’m open to any collaboration.
 
 
