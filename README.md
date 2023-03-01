@@ -11,8 +11,8 @@
          - Foundations = 93%
          - Full Stack Javascript = 0%
   -  Complete CS50x
-      - Progress: 
-         - Week 2
+  <!--    - Progress: 
+         - Week 2 -->
   - Create Tutor Web Page using HTML, CSS and Vanilla JS
   - Create Gym Log Book using React
   - Create Productivity Timer and Tracker 
