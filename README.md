@@ -9,7 +9,7 @@
   -  Complete The Odin Project
       - Progress: 
          - [x] Foundations
-         - Full Stack Javascript = 0%
+         - Intermediate HTML and CSS = 8%
   -  Complete CS50x
   <!--    - Progress: 
          - Week 2 -->
