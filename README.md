@@ -9,7 +9,7 @@
   -  Complete The Odin Project
       - Progress: 
          - [x] Foundations
-         - Intermediate HTML and CSS = 8%
+         - Intermediate HTML and CSS = 13%
   -  Complete CS50x
   <!--    - Progress: 
          - Week 2 -->
