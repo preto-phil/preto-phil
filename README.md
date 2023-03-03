@@ -16,7 +16,7 @@
   - Create Tutor Web Page using HTML, CSS and Vanilla JS
   - Create Gym Log Book using React
   - Create Productivity Timer and Tracker 
-  - Create Alarm App using REact Native
+  - Create Alarm App using React Native
 - 🤝 I’m open to any collaboration.
 
 
