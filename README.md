@@ -10,11 +10,13 @@
       - Progress: 
          - [x] Foundations
          - Intermediate HTML and CSS = 60%
+   <!-- 
   -  Complete CS50x
-  <!--    - Progress: 
-         - Week 2 -->
-  - Create Tutor Web Page using HTML, CSS and Vanilla JS
-  - Create Gym Log Book using React
+    - Progress: 
+         - Week 2 
+   -->
+  - Create Tutor Web Page
+  - Create Gym Log Book and Goal Tracker
   - Create Productivity Timer and Tracker 
   - Create Alarm App using React Native
 - 🤝 I’m open to any collaboration.
