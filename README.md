@@ -9,7 +9,7 @@
   -  Complete The Odin Project
       - Progress: 
          - [x] Foundations
-         - Intermediate HTML and CSS = 86%
+         - Intermediate HTML and CSS = 91%
          - Javascript = 0%
          - Advanced HTML and CSS = 0%
          - NodeJS = 0%
