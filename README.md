@@ -2,7 +2,7 @@
 **<p align="center">Stellenbosch-based software engineer in the making</p>**
 
 ## :man_technologist: About Me
-- 👀 I’m building up my knowledge and skill-set with the goal of starting a career in web development... Still early days!
+- 👀 I’m building up my knowledge and skill-set with the goal of starting a career in web development.
 - 🌱 I’m currently learning HTML, CSS, Javascript (MERN) and more through completing The Odin Project.
 - 🌟 I'm also learning some computer science through online resources, such as CS50 and OSSU.
 - :muscle: Goals for 2023: 
@@ -10,13 +10,14 @@
       - Progress: 
          - [x] Foundations
          - [x] Intermediate HTML and CSS
-         - Javascript = 45%
+         - Javascript = 63%
          - Advanced HTML and CSS = 0%
+         - React = 0%
          - NodeJS = 0%
 <!-- - Create Gym Log Book and Goal Tracker
   - Create Productivity Timer and Tracker 
   - Create Alarm App using React Native -->
-- 🤝 I’m open to any collaboration.
+- 🤝 Let me know if you'd like to build something together.
 
 
 ## 📫 Contact Me
