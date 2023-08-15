@@ -12,7 +12,7 @@
          - [x] Intermediate HTML and CSS
          - Javascript = 65%
          - Advanced HTML and CSS = 0%
-         - React = 0%
+         - React = 3%
          - NodeJS = 0%
 <!-- - Create Gym Log Book and Goal Tracker
   - Create Productivity Timer and Tracker 
