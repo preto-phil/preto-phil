@@ -12,7 +12,7 @@
          - [x] Intermediate HTML and CSS
          - Javascript = 65%
          - Advanced HTML and CSS = 0%
-         - React = 7%
+         - React = 11%
          - NodeJS = 0%
 <!-- - Create Gym Log Book and Goal Tracker
   - Create Productivity Timer and Tracker 
@@ -21,7 +21,7 @@
 
 
 ## 📫 Contact Me
--  Email: philippretorius.79@gmail.com
+-  Email: philpretorius97@gmail.com
 
 <!-- <a href="https://www.reddit.com/user/preto_phil" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg"       alt="preto-phil reddit" height="30" width="40" />
