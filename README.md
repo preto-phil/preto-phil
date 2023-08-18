@@ -10,7 +10,7 @@
       - Progress: 
          - [x] Foundations
          - [x] Intermediate HTML and CSS
-         - Javascript = 71%
+         - Javascript = 73%
          - Advanced HTML and CSS = 6%
          - React = 11%
          - NodeJS = 0%
