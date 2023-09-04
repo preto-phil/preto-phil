@@ -11,7 +11,7 @@
          - [x] Foundations
          - [x] Intermediate HTML and CSS
          - Javascript = 76%
-         - Advanced HTML and CSS = 62%
+         - Advanced HTML and CSS = 68%
          - React = 11%
          - NodeJS = 0%
 <!-- - Create Gym Log Book and Goal Tracker
