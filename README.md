@@ -8,7 +8,7 @@
 - :muscle: Goals for 2024: 
   -  Complete Java MOOC
       - Progress:
-         - Java Programming 1 ~ Part 3
+         - Java Programming 1 ~ Part 4
   -  Complete The Odin Project
       - Progress: 
          - [x] Foundations
