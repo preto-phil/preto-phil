@@ -3,24 +3,27 @@
 
 ## :man_technologist: About Me
 - 👀 I’m building up my knowledge and skill-set with the goal of starting a career in software development.
-- 🌱 I’m currently learning Java and the MERN stack.
+- 🌱 I’m currently learning web development with the MERN stack, with some MySQL.
 - 🌟 I'm also learning some computer science through online resources, such as CS50 and OSSU.
 - :muscle: Goals for 2024: 
-  -  Complete Java MOOC
+ <!-- -  Complete Java MOOC
       - Progress:
-         - Java Programming 1 ~ Part 4
-  -  Complete The Odin Project
+         - Java Programming 1 ~ Part 4 -->
+  -  Complete The Odin Project 
       - Progress: 
-         - [x] Foundations
-         - [x] Intermediate HTML and CSS
-         - [x] Javascript
-         - Advanced HTML and CSS = 93%
-         - React = 38%
+         - Foundations recap
+         - Intermediate HTML and CSS recap
+         - Javascript recap
+         - Advanced HTML and CSS recap
+      - For 2025:
+         - React = 0%
+         - Databases = 0%
          - NodeJS = 0%
  <!-- - Create Gym Log Book and Goal Tracker
   - Create Productivity Timer and Tracker 
   - Create Alarm App using React Native 
   -->
+  <!-- [x] -->
 - 🤝 Let me know if you'd like to build something together.
 
 
