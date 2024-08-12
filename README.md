@@ -3,7 +3,7 @@
 
 ## :man_technologist: About Me
 - 👀 I’m building up my knowledge and skill-set with the goal of starting a career in software development.
-- 🌱 I’m currently learning web development with the MERN stack, with some MySQL.
+- 🌱 I’m currently learning web development with the MERN stack, MySQL and Java.
 - 🌟 I'm also learning some computer science through online resources, such as CS50 and OSSU.
 - :muscle: Goals for 2024: 
  <!-- -  Complete Java MOOC
