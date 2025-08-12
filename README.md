@@ -1,8 +1,8 @@
 # <p align="center"> Hi there 👋, I’m Phil</p>
-**<p align="center">Stellenbosch-based software engineer in the making</p>**
+**<p align="center">Stellenbosch-based tech-curious person</p>**
 
 ## :man_technologist: About Me
-- 👀 I’m building up my knowledge and skill-set with the goal of starting a career in software development.
+- 👀 I’m building up my knowledge and skill-set with the goal of exploring software development.
 - 🌱 I’m currently learning web development with the MERN stack, MySQL and Java.
 - 🌟 I'm also learning some computer science through online resources, such as CS50 and OSSU.
 - :muscle: Goals for 2024: 
